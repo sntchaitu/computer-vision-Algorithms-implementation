@@ -1,5 +1,5 @@
 # computer-vision-Algorithms-implementation
-Folder consists of program for implementation below  algorithms with deatiled documentation which is part of Computer Vision Course(CAP5415)
+Folder consists of Python programs  implementation of  below  algorithms with deatiled documentation which is part of Computer Vision Course(CAP5415)
 
 
 Canny Edge Dectector 
